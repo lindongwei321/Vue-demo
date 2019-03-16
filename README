@@ -1,1 +1,6 @@
 vue demo涉及初步的点击事件，父子组件传递，axios的使用等
+git提交步骤记录：1、新建respositiory,然后拷贝到本地目录
+                2、git bash中，git add 
+                3、git commit -m""
+                4、git pull origin master
+                5、
